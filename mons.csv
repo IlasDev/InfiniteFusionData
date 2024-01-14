@@ -26,10 +26,10 @@ Pikachu,25
 Raichu,26
 Sandshrew,27
 Sandslash,28
-Nidoran-f,29
+Nidoran F,29
 Nidorina,30
 Nidoqueen,31
-Nidoran-m,32
+Nidoran M,32
 Nidorino,33
 Nidoking,34
 Clefairy,35
@@ -80,7 +80,7 @@ Slowpoke,79
 Slowbro,80
 Magnemite,81
 Magneton,82
-Farfetchd,83
+Farfetch'd,83
 Doduo,84
 Dodrio,85
 Seel,86
@@ -119,7 +119,7 @@ Goldeen,118
 Seaking,119
 Staryu,120
 Starmie,121
-Mr-Mime,122
+Mr. Mime,122
 Scyther,123
 Jynx,124
 Electabuzz,125
@@ -247,7 +247,7 @@ Larvitar,246
 Pupitar,247
 Tyranitar,248
 Lugia,249
-Ho-oh,250
+Ho-Oh,250
 Celebi,251
 Azurill,252
 Wynaut,253
@@ -255,7 +255,7 @@ Ambipom,254
 Mismagius,255
 Honchkrow,256
 Bonsly,257
-Mime-jr,258
+Mime Jr.,258
 Happiny,259
 Munchlax,260
 Mantyke,261
@@ -272,7 +272,7 @@ Leafeon,271
 Glaceon,272
 Gliscor,273
 Mamoswine,274
-Porygon-z,275
+Porygon-Z,275
 Treecko,276
 Grovyle,277
 Sceptile,278
@@ -326,7 +326,7 @@ Nosepass,325
 Probopass,326
 Honedge,327
 Doublade,328
-Aegislash-shield,329
+Aegislash,329
 Pawniard,330
 Bisharp,331
 Luxray,332
@@ -342,7 +342,7 @@ Groudon,341
 Rayquaza,342
 Dialga,343
 Palkia,344
-Giratina-altered,345
+Giratina,345
 Regigigas,346
 Darkrai,347
 Genesect,348
@@ -370,14 +370,14 @@ Golurk,369
 Pyukumuku,370
 Klefki,371
 Talonflame,372
-Mimikyu-disguised,373
+Mimikyu,373
 Volcarona,374
 Deino,375
 Zweilous,376
 Hydreigon,377
 Latias,378
 Latios,379
-Deoxys-normal,380
+Deoxys,380
 Jirachi,381
 Nincada,382
 Bibarel,383
@@ -418,3 +418,49 @@ Fletchling,417
 Fletchinder,418
 Larvesta,419
 Stunfisk,420
+Sableye,421
+Venipede,422
+Whirlipede,423
+Scolipede,424
+Tyrunt,425
+Tyrantrum,426
+Snorunt,427
+Glalie,428
+Froslass,429
+Oricorio Baile Style,430
+Oricorio Pom-Pom Style,431
+Oricorio Pa'u Style,432
+Oricorio Sensu Style,433
+Trubbish,434
+Garbodor,435
+Carvanha,436
+Sharpedo,437
+Phantump,438
+Trevenant,439
+Noibat,440
+Noivern,441
+Swablu,442
+Altaria,443
+Goomy,444
+Sliggoo,445
+Goodra,446
+Regirock,447
+Regice,448
+Registeel,449
+Necrozma,450
+Ultra Necrozma,450_1
+Stufful,451
+Bewear,452
+Dhelmise,453
+Mareanie,454
+Toxapex,455
+Hawlucha,456
+Cacnea,457
+Cacturne,458
+Sandygast,459
+Palossand,460
+Amaura,461
+Aurorus,462
+Rockruff,463
+Lycanroc Midday,464
+Lycanroc Midnight,465
